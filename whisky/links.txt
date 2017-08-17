@@ -1,0 +1,13 @@
+links.txt
+Created Thu Aug 17 10:17:48 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Whisky related links
+
+
+Links
+=====
+Dilution of whisky – the molecular perspective
+Bjorn C. G. Karlsson & Ran Friedman
+https://www.nature.com/articles/s41598-017-06423-5
